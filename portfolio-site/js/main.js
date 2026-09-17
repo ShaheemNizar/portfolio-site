@@ -58,8 +58,8 @@
           fullDesc:
             "StudySphere is a smart study tracking website that helps students manage their learning in an easy and organized way. It allows users to track daily study time, add subjects, set goals, and monitor their progress. With a simple and clean design, StudySphere helps students stay focused, build good study habits, and improve their productivity.",
           tech: ["HTML", "CSS", "JavaScript", "node.JS", "Supabase"],
-          demo: "https://study-tracking-orpin.vercel.app/",
-          code: "https://github.com/Fayadfai/Study_Sphere",
+          demo: "https://progresspro2.netlify.app/",
+          code: "https://github.com/ShaheemNizar/ProgressPro",
         },
         {
           id: 7,
