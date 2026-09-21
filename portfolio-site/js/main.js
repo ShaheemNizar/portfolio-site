@@ -56,6 +56,7 @@
             "assets/img/study8.png",
             "assets/img/study9.png",
             "assets/img/study10.png",
+            
           ],
           title: "Study Sphere Smart Study Tracking",
           tags: ["HTML", "CSS", "JavaScript", "Node.JS", "Supabase"],
