@@ -84,7 +84,7 @@
           fullDesc:
             " A responsive personal finance management web application built with HTML, CSS, JavaScript, and Supabase. Track income and expenses, set monthly budgets, analyze spending by category, search transactions, and securely sync your financial data across devices.",
           tech: ["HTML", "CSS", "JavaScript", "node.JS", "Supabase"],
-          demo: "https://app.netlify.com/projects/ledger161/overview",
+          demo: "https://ledger161.netlify.app/",
           code: "https://github.com/ShaheemNizar/Ledger",
         },
         {
